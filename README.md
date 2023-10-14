@@ -8,3 +8,5 @@
 ### DO NOT trigger other combinations together, some will short out (use this diagram at your own discretion).
 
 ![alt text](https://github.com/bquandt/sonoff-rollertrol/blob/main/sonoff-h-bridge.png "Sonoff H-Bridge")
+
+### This was a no-thrills no firmware mods required way to do things.   Might even be a way to do this with less relays, let me know if there is.
